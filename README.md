@@ -1,0 +1,1 @@
+# A simple demonstration of using Celery with Django and RabbitMQ to process tasks in a queue
